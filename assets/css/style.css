@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto';
+    margin: 0;
+    padding: 0;
+    color: #707070;
+    font-weight: 300;
+}
+
+.navbar-brand img {
+    height: 25px;
+}
+
+.card-title {
+    font-weight: 300;
+}
+
+.text-success {
+    font-size: 20px;
+}
+
+form h2 {
+    font-size: 21px;
+    font-weight: 500;
+}
+
+footer {
+    font-size: 16px;
+}
+
+footer img {
+    height: 24px;
+}
